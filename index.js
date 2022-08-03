@@ -29,3 +29,4 @@ console.log(err)
 
 
 client.login("TOKENBOT")
+// All Copyright By SmSm
