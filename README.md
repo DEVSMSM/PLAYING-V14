@@ -21,8 +21,7 @@ All Information Typed In ``index.js`` How To Use
 
 # Link My Discord Servers
 
-[Progrees Home](https://discord.gg/JjUc7G7kwV)
 
-[Zero Devlopers](https://discord.gg/7MaVp5HCSh)
+[Zero](https://discord.gg/7MaVp5HCSh)
 
 <a href="https://discord.gg/RMEQSbMtEk"><img src="https://discord.com/api/guilds/496754973883760650/widget.png?style=banner3"></a>
